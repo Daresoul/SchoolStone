@@ -27,3 +27,4 @@ sysinfo.txt
 
 # Nodes modules
 /node_modules/
+.idea
